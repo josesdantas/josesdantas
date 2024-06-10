@@ -1,5 +1,6 @@
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=25&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi%2C+my+name+is+S%C3%A9rgio" alt="Typing SVG" />
+  </a>
 </div>
 <h3 align="center">Computer Engineering student at UFC - Universidade Federal do Ceará</h3>
 
