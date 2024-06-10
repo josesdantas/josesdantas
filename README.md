@@ -17,6 +17,6 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=josesdlf&theme=dark&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
 </div>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josesdlf&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josesdlf&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 <hr/>
