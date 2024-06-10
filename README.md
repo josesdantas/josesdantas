@@ -9,6 +9,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,linux" />
   </a>
 </p>
+<hr/>
 
 <h2 align="center"> Stats </h2>
 
