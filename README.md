@@ -1,12 +1,12 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=750&height=55&lines=Hi%2C+my+name+is+S%C3%A9rgio;Computer+Engineering+student;Currently+learning%3A+Assembly;Welcome%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=750&height=55&lines=Hi%2C+my+name+is+S%C3%A9rgio;Computer+Engineering+student;Currently+learning%3A+Rust;Welcome%3A" alt="Typing SVG" /></a>
 </div>
 
 <h2 align="center"> Languages and Tools </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,lua,godot,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,lua,assembly,godot,vscode,linux" />
   </a>
 </p>
 <hr/>
